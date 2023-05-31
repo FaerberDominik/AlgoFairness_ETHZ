@@ -1,2 +1,7 @@
 # AlgoFairness_ETHZ
-code for final paper of course Algorithms and Fairness (ETH Zurich - FS2023)
+This repository stores code for the final paper in the following course:
+-title: Algorithms and Fairness
+-course number: 851-0746-00L
+-semester: Spring Semester 2023
+-institution: ETH Zurich
+-instructors: Prof. Stremitzer A. & Nielsen A.
